@@ -12,3 +12,7 @@
 	Example: `./wstunnel cli -tunnel ws://test.herokuapp.com -server http://localhost:8000`
 
 5. Access `https://$YOUR_APP_NAME.herokuapp.com`
+
+## About the binary `wstunnel`
+
+It is built from my fork of `wstunnel` [here](https://github.com/maple3142/wstunnel).
