@@ -1,0 +1,11 @@
+{
+	"name": "Heroku proxy local",
+	"description": "Use Heroku to expose your local server to the Internet.",
+	"repository": "https://github.com/maple3142/heroku-proxy-local",
+	"success_url": "/",
+	"buildpacks": [
+		{
+			"url": "https://github.com/ryandotsmith/null-buildpack"
+		}
+	]
+}
